@@ -17,25 +17,25 @@ The project demonstrates practical SQL skills including data cleaning, data tran
 • Highlights best practices in data preparation before conducting analysis.
 # Project Highlights
 1. Data Cleaning
-• Removed duplicate records using ROW_NUMBER().
-• Standardized company names, industries, countries, and date formats.
-• Handled missing and null values through self-joins and updates.
-• Eliminated records lacking meaningful layoff information.
+   • Removed duplicate records using ROW_NUMBER().
+   • Standardized company names, industries, countries, and date formats.
+   • Handled missing and null values through self-joins and updates.
+   • Eliminated records lacking meaningful layoff information.
 2. Exploratory Data Analysis
-• Company-wise layoff analysis.
-• Industry and country impact assessment.
-• Year-over-year layoff trends.
-• Monthly rolling layoff calculations.
-• Funding stage analysis.
-• Top-ranked companies by layoffs for each year.
+   • Company-wise layoff analysis.
+   • Industry and country impact assessment.
+   • Year-over-year layoff trends.
+   • Monthly rolling layoff calculations.
+   • Funding stage analysis.
+   • Top-ranked companies by layoffs for each year.
 3. SQL Concepts Used
-• Window Functions
-• Common Table Expressions (CTEs)
-• Aggregate Functions
-Joins
-• Data Transformation
-• Ranking Functions
-• Data Cleaning Techniques
+   • Window Functions
+   • Common Table Expressions (CTEs)
+   • Aggregate Functions
+   •Joins
+   • Data Transformation
+   • Ranking Functions
+   • Data Cleaning Techniques
 # Repository Structure
 ├── layoffs.csv # Original dataset
 
